@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "@typescript-eslint/typescript-estree": "^1.6.0",
+    "animate.css": "^3.7.0",
+    "axios": "^0.18.0",
+    "firebase": "^6.0.4",
+    "re-base": "^4.0.0",
     "react": "^16.8.6",
+    "react-animated-css": "^1.2.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-transition-group": "^4.0.1",
+    "rebase": "^0.3.0",
+    "typescript": "^3.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
